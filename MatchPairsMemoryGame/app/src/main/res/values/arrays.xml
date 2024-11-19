@@ -1,0 +1,7 @@
+<resources>
+    <array name="background_images">
+        <item>@drawable/background_image1</item>
+        <item>@drawable/background_image2</item>
+        <item>@drawable/background_image3</item>
+    </array>
+</resources>

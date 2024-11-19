@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MatchPairsMemoryGame</string>
+    <string name="button0">Button 0</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="button3">Button 3</string>
+    <string name="button4">Button 4</string>
+    <string name="button5">Button 5</string>
+    <string name="button6">Button 6</string>
+    <string name="button7">Button 7</string>
+    <string name="start_music">Start Music</string>
+    <string name="stop_music">Stop Music</string>
+
+
+</resources>
